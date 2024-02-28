@@ -1,0 +1,16 @@
+&input
+btype='linear',
+bmin=0.2,
+bmax=12.2,
+nbimp=40,
+ztype='exp',
+zmin=-100.0,
+zmax=100.0,
+nzgrid=200,
+initstate=1,
+pcharge=-1.0,
+vcoll=2.0
+nmo_occ=5
+nmo_act=3
+nmo_virt=10
+/
